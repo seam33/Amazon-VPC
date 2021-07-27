@@ -24,3 +24,5 @@ Finally, all infrastructure were wrote using IaC technologies:
 On this image you can see the repository organization:
 
 ![repo](Images/Repo.png)
+
+Note: If you have questions about something please ask me. 
